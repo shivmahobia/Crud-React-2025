@@ -1,0 +1,7 @@
+# To Clone Repo From GitHub
+    - git clone (URL)
+
+#To Push Code in GitHub
+    - git add .
+    - git commit -m "(message)"
+    - git origin push main (Branch Name)
